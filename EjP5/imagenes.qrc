@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/imagen">
+        <file>Imagenes/bloque.png</file>
+        <file>Imagenes/ladrillo.png</file>
+        <file>Imagenes/frontal.png</file>
+        <file>Imagenes/derecha.png</file>
+        <file>Imagenes/valcmuerte1.png</file>
+    </qresource>
+</RCC>
